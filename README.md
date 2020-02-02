@@ -1,6 +1,6 @@
-# lab_rat_2
+# EnviroMe
 
-A new Flutter project.
+EnviroMe is your sustainability tracker that allows you to track the environmental impact of the products you use.
 
 ## Getting Started
 
