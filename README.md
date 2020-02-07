@@ -1,6 +1,7 @@
 # EnviroMe
 
-EnviroMe is your sustainability tracker that allows you to track the environmental impact of the products you use.
+Elle Hacks 2020 - Deloitte Best Pitch Recipient 
+EnviroMe is your sustainability tracker that enables you to monitor the environmental impact and carbon footprint of the everyday products you buy and use.
 
 ## Getting Started
 
